@@ -1,0 +1,14 @@
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Selenium_1.exe
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Selenium_1.deps.json
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Selenium_1.runtimeconfig.json
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Selenium_1.runtimeconfig.dev.json
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Selenium_1.dll
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Selenium_1.pdb
+D:\Code\Selenium_1\Selenium_1\obj\Debug\netcoreapp3.0\Selenium_1.csprojAssemblyReference.cache
+D:\Code\Selenium_1\Selenium_1\obj\Debug\netcoreapp3.0\Selenium_1.AssemblyInfoInputs.cache
+D:\Code\Selenium_1\Selenium_1\obj\Debug\netcoreapp3.0\Selenium_1.AssemblyInfo.cs
+D:\Code\Selenium_1\Selenium_1\obj\Debug\netcoreapp3.0\Selenium_1.dll
+D:\Code\Selenium_1\Selenium_1\obj\Debug\netcoreapp3.0\Selenium_1.pdb
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Code\Selenium_1\Selenium_1\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\Code\Selenium_1\Selenium_1\obj\Debug\netcoreapp3.0\Selenium_1.csproj.CopyComplete
